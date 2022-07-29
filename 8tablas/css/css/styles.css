@@ -1,0 +1,27 @@
+table{
+    border-collapse: collapse;
+
+}
+thead tr,th{
+    border: 2px solid white;
+    background-color: aqua;
+}
+tbody td{
+    border: 1px solid white;
+    background-color: #5CB9E0;
+}
+tfoot th{
+    border: 2px solid white;
+}
+tfoot td{
+    border: 1px solid white;
+    background-color: #5CB9E0;
+}
+caption{
+    font-size: 40px;
+}
+#img{
+    width: 800px;
+    height:700px;
+    margin: auto;
+}
