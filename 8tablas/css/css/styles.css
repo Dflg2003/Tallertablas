@@ -20,8 +20,9 @@ tfoot td{
 caption{
     font-size: 40px;
 }
-#img{
+img{
     width: 800px;
     height:700px;
-    margin: auto;
+    display: block;
+    margin: 0px auto;
 }
